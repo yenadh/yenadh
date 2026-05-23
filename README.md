@@ -8,8 +8,7 @@ I enjoy combining **clean architecture, powerful backend logic, and interactive 
 
 ---
 
-## 💻 Professional Experience  
-- **Web Developer / IT Support (Part-Time) – Ahava Middle East, UAE** (2025 July) 
+## 💻 Professional Experience   
 - **Software Engineer – Innovative-e Private Limited, Sri Lanka** (2024 March - 2025 July)
 - **Consultant Software Engineer – Innovative-e FZE, United Arab Emirates** (2026 January)  
 
